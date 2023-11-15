@@ -1,0 +1,14 @@
+Angular Codebase Updated
+
+1. cd /var/www/my-app/
+Enter into the mentioned directory
+
+2.git pull {{remote}} {{branch}} 
+
+It will pull the recent code changes.
+
+3. ng build
+
+Building the apps and deploying the build artifacts
+
+Hit the public ip the changes will get reflected.
